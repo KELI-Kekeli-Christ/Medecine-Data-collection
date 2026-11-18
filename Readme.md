@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="Readme.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Détection des Faux Médicaments - Collecte de Données
 
 ## Contexte
